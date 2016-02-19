@@ -32,6 +32,15 @@ img:hover {
 	text-align: center !important;
 }
 
+#location {
+  color: white;
+  text-decoration: none;
+}
+
+#location:hover {
+  color: red;
+}
+
 #services-section {
 	padding: 20px;
 	margin: 20px;

@@ -52,8 +52,11 @@ img:hover {
     font-size: 16px;
     letter-spacing: 0.4px;
     line-height: 28px;
+    list-style: none;
 }
-
+#services-section ul {
+  margin-left: -25px;
+}
 #partners-section {
   padding: 20px;
   margin: 20px;
